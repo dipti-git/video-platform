@@ -1,4 +1,4 @@
-# Online Video Engagement: Video Platform Concept
+# Video Platform Concept
 
 ## Subtitle: Crafting an Intuitive and Aesthetically Pleasing Video Sharing Experience
 
