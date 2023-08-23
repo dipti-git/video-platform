@@ -1,6 +1,6 @@
 # Video Platform Concept
 
-## Subtitle: Crafting an Intuitive and Aesthetically Pleasing Video Sharing Experience
+## Crafting an Intuitive and Aesthetically Pleasing Video Sharing Experience
 
 ![Alt text](assets/Home.png)
 ![Alt text](assets/Nav.png)
